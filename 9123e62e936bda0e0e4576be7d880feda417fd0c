@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "0532adfa_5eca3013",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2022-09-07T10:36:03Z",
+      "side": 1,
+      "message": "Also needed for 12 but doesn\u0027t pick cleanly 😞\n\nWe\u0027re missing https://android.googlesource.com/platform/system/vold/+/d86a8abec7afecaf58795a6ef5a8e2f81cafdcce%5E%21/#F1 for example but even that doesn\u0027t pick cleanly",
+      "revId": "9123e62e936bda0e0e4576be7d880feda417fd0c",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    }
+  ]
+}
