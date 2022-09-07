@@ -16,6 +16,24 @@
       "message": "Had to manually resolve conflicts",
       "revId": "4178c80c5207d35dd9e8cfdf788893a5d7c437f8",
       "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "2dd880f9_281d1813",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2022-09-07T10:55:16Z",
+      "side": 1,
+      "message": "We don\u0027t have https://android.googlesource.com/platform/system/vold/+/d86a8abec7afecaf58795a6ef5a8e2f81cafdcce%5E%21/#F1 - and that doesn\u0027t apply cleanly either 😞",
+      "parentUuid": "d3cb255c_8d943bba",
+      "revId": "4178c80c5207d35dd9e8cfdf788893a5d7c437f8",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
     }
   ]
 }
